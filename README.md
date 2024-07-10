@@ -1,0 +1,2 @@
+# Fine-Tuning-an-E-commerce-Chatbot-Using-PEFT-Enhancing-Customer-Interaction-Efficiency
+"Refine your E-commerce chatbot's capabilities with Parameter Efficient Fine-Tuning (PEFT), optimizing customer interactions through personalized responses. This project leverages advanced language models to tailor responses to user queries, enhancing customer satisfaction and operational efficiency in online retail environments."
