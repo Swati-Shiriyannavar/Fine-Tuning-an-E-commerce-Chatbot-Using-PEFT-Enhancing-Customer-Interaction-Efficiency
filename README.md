@@ -3,6 +3,9 @@
 ## Overview
 
 This repository presents the implementation of an E-Commerce FAQ Chatbot empowered by Parameter Efficient Fine Tuning (PEFT) with the LoRA (Low-Rank Adaptation) Technique. The project aims to streamline customer support processes by automating responses to frequently asked questions using advanced language models.
+![image](https://github.com/Swati-Shiriyannavar/Fine-Tuning-an-E-commerce-Chatbot-Using-PEFT-Enhancing-Customer-Interaction-Efficiency/assets/75442865/41f28e13-15c8-45dd-9c97-d69fe97fce8e)
+
+![image](https://github.com/Swati-Shiriyannavar/Fine-Tuning-an-E-commerce-Chatbot-Using-PEFT-Enhancing-Customer-Interaction-Efficiency/assets/75442865/823a8244-1db3-4695-9cf2-3a97d6e5ffdd)
 
 ## Table of Contents
 
